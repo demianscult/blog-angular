@@ -1,6 +1,6 @@
-# Pixel Art Blog
+# Pixel Art Blog 🕹️
 
-Este é um blog simples em Angular com estilo pixel art para o projeto 3 do bootcamp DIO x Avanade.
+Este é um blog super simples em Angular com estilo pixel art para o projeto 3 do bootcamp DIO x Avanade.
 
 ## Como executar
 
